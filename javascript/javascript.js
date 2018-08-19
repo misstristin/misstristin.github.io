@@ -40,6 +40,16 @@ var projectList = [
         name: 'Monopoly Project Collab',
         url: 'http://tayloraanenson.github.io/monopoly-project',
         thumb: ''  
+    },
+    {
+        name: 'Liri Node App',
+        url: 'http://github.com/misstristin/liri-node-app',
+        thumb: ''  
+    },
+    {
+        name: 'Bamazon Node + MySQL App',
+        url: 'http://github.com/misstristin/bamazon',
+        thumb: ''  
     }
 ];
 
